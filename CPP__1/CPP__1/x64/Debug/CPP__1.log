@@ -1,0 +1,3 @@
+﻿  CPP__1.cpp
+C:\Users\lexab\Visual_projekts\CPP__1\CPP__1.cpp(21,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  CPP__1.vcxproj -> C:\Users\lexab\Visual_projekts\CPP__1\x64\Debug\CPP__1.exe
