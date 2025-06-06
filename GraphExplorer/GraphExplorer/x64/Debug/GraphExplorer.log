@@ -1,0 +1,71 @@
+﻿  pch.cpp
+  Graph.cpp
+  GraphExplorer.cpp
+  GraphExplorerDlg.cpp
+C:\Users\lexab\Visual_projekts\GraphExplorer\resource.h(10,9): warning C4005: IDD_GRAPHEXPLORER_DIALOG: изменение макроопределения
+  (компиляция исходного файла "/GraphExplorer.cpp")
+      C:\Users\lexab\Visual_projekts\GraphExplorer\resource.h(9,9):
+      см. предыдущее определение "IDD_GRAPHEXPLORER_DIALOG"
+  
+C:\Users\lexab\Visual_projekts\GraphExplorer\resource.h(16,9): warning C4005: IDD_ABOUTBOX: изменение макроопределения
+  (компиляция исходного файла "/GraphExplorer.cpp")
+      C:\Users\lexab\Visual_projekts\GraphExplorer\resource.h(7,9):
+      см. предыдущее определение "IDD_ABOUTBOX"
+  
+C:\Users\lexab\Visual_projekts\GraphExplorer\resource.h(17,9): warning C4005: IDS_ABOUTBOX: изменение макроопределения
+  (компиляция исходного файла "/GraphExplorer.cpp")
+      C:\Users\lexab\Visual_projekts\GraphExplorer\resource.h(8,9):
+      см. предыдущее определение "IDS_ABOUTBOX"
+  
+C:\Users\lexab\Visual_projekts\GraphExplorer\resource.h(35,9): warning C4005: IDD_ABOUTBOX: изменение макроопределения
+  (компиляция исходного файла "/GraphExplorer.cpp")
+      C:\Users\lexab\Visual_projekts\GraphExplorer\resource.h(16,9):
+      см. предыдущее определение "IDD_ABOUTBOX"
+  
+C:\Users\lexab\Visual_projekts\GraphExplorer\resource.h(38,9): warning C4005: IDS_ABOUTBOX: изменение макроопределения
+  (компиляция исходного файла "/GraphExplorer.cpp")
+      C:\Users\lexab\Visual_projekts\GraphExplorer\resource.h(17,9):
+      см. предыдущее определение "IDS_ABOUTBOX"
+  
+C:\Users\lexab\Visual_projekts\GraphExplorer\resource.h(41,9): warning C4005: IDR_MAINFRAME: изменение макроопределения
+  (компиляция исходного файла "/GraphExplorer.cpp")
+      C:\Users\lexab\Visual_projekts\GraphExplorer\resource.h(5,9):
+      см. предыдущее определение "IDR_MAINFRAME"
+  
+C:\Users\lexab\Visual_projekts\GraphExplorer\resource.h(10,9): warning C4005: IDD_GRAPHEXPLORER_DIALOG: изменение макроопределения
+  (компиляция исходного файла "/GraphExplorerDlg.cpp")
+      C:\Users\lexab\Visual_projekts\GraphExplorer\resource.h(9,9):
+      см. предыдущее определение "IDD_GRAPHEXPLORER_DIALOG"
+  
+C:\Users\lexab\Visual_projekts\GraphExplorer\resource.h(16,9): warning C4005: IDD_ABOUTBOX: изменение макроопределения
+  (компиляция исходного файла "/GraphExplorerDlg.cpp")
+      C:\Users\lexab\Visual_projekts\GraphExplorer\resource.h(7,9):
+      см. предыдущее определение "IDD_ABOUTBOX"
+  
+C:\Users\lexab\Visual_projekts\GraphExplorer\resource.h(17,9): warning C4005: IDS_ABOUTBOX: изменение макроопределения
+  (компиляция исходного файла "/GraphExplorerDlg.cpp")
+      C:\Users\lexab\Visual_projekts\GraphExplorer\resource.h(8,9):
+      см. предыдущее определение "IDS_ABOUTBOX"
+  
+C:\Users\lexab\Visual_projekts\GraphExplorer\resource.h(35,9): warning C4005: IDD_ABOUTBOX: изменение макроопределения
+  (компиляция исходного файла "/GraphExplorerDlg.cpp")
+      C:\Users\lexab\Visual_projekts\GraphExplorer\resource.h(16,9):
+      см. предыдущее определение "IDD_ABOUTBOX"
+  
+C:\Users\lexab\Visual_projekts\GraphExplorer\resource.h(38,9): warning C4005: IDS_ABOUTBOX: изменение макроопределения
+  (компиляция исходного файла "/GraphExplorerDlg.cpp")
+      C:\Users\lexab\Visual_projekts\GraphExplorer\resource.h(17,9):
+      см. предыдущее определение "IDS_ABOUTBOX"
+  
+C:\Users\lexab\Visual_projekts\GraphExplorer\resource.h(41,9): warning C4005: IDR_MAINFRAME: изменение макроопределения
+  (компиляция исходного файла "/GraphExplorerDlg.cpp")
+      C:\Users\lexab\Visual_projekts\GraphExplorer\resource.h(5,9):
+      см. предыдущее определение "IDR_MAINFRAME"
+  
+C:\Users\lexab\Visual_projekts\GraphExplorer\GraphExplorerDlg.cpp(155,41): error C2440: =: невозможно преобразовать "CStringA" в "LPCWSTR"
+  (компиляция исходного файла "/GraphExplorerDlg.cpp")
+      C:\Users\lexab\Visual_projekts\GraphExplorer\GraphExplorerDlg.cpp(155,41):
+      Для выполнения данного преобразования нет доступного оператора преобразования, определенного пользователем, или вызов оператора невозможен
+  
+  Logger.cpp
+  Создание кода...
